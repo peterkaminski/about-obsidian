@@ -31,6 +31,7 @@ Pete's [obsidian-css-snippets](https://github.com/peterkaminski/obsidian-css-sni
 [Why Take Notes: 3 Mistakes, 3 Better Mindsets | The Startup](https://medium.com/swlh/why-take-notes-3-common-misconceptions-and-3-better-mindsets-447ef6853aa9)
 
 [Why I Switched: A deep dive into Roam vs. Obsidian | by Niles Wyler | Medium](https://nileswyler.medium.com/why-i-switched-a-deep-dive-into-roam-vs-obsidian-df1a394971ff)
+- great overview of [block structure](https://nileswyler.medium.com/why-i-switched-a-deep-dive-into-roam-vs-obsidian-df1a394971ff#105d)
 
 [Here Is How I Use Tags 🏷️ And Links 🔗️ In Obsidian To Manage My Zettelkasten 📝️ - YouTube](https://www.youtube.com/watch?v=zIh1S7ra3aI)
 

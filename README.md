@@ -2,7 +2,7 @@ This is a small wiki created by Peter Kaminski, initially for CICOLAB 2021-05-03
 
 Here's what it's about:
 
-> Obsidian.md is a desktop Personal Knowledge Management app, aka "personal wiki". Let's use Obsidian as an on-ramp to understanding how to get involved with collective knowledge and Massive Wiki.
+> Obsidian\.md is a desktop Personal Knowledge Management app, aka "personal wiki". Let's use Obsidian as an on-ramp to understanding how to get involved with collective knowledge and Massive Wiki.
 
 It is a [Massive Wiki](https://massive.wiki/).
 
@@ -26,3 +26,4 @@ Pages:
 - [[Related Tools]]
 - [[Resources]]
 - [[Workflows and Systems]]
+- [[Context]]

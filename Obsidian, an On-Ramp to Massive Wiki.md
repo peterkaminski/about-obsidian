@@ -9,9 +9,18 @@ Personal Knowledge Management
 
 ---
 
+- Personal Knowledge Management
 - Knowlege Garden / Digital Garden
 - Second Brain
 - Personal Wiki
+
+---
+
+Knowledge is more than text. :-)
+- images
+- videos
+- 3d world
+
 
 ---
 
@@ -40,7 +49,7 @@ _a system/workflow is a set of opinions about how things should be done._
 
 What You Need/Get from a Tool
 
-- Context
+- [[Context]] is how you tell where you are, and what's around.
 - Chunking
 
 ---
