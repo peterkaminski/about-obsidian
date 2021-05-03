@@ -29,7 +29,7 @@ Alternative PKM systems
 
 ---
 
-Using a Personal Knowlege Manager
+Using a Personal Knowledge Manager
 
 - A Tool
 - A System (workflow)
