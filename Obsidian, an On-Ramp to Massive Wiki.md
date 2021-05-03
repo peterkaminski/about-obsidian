@@ -34,7 +34,7 @@ Using a Personal Knowledge Manager
 - A Tool
 - A System (workflow)
 
-_A system/workflow is a set of opinions about how things should be done._
+_a system/workflow is a set of opinions about how things should be done._
 
 ---
 
@@ -48,7 +48,7 @@ What You Need/Get from a Tool
 Skillz
 
 - controlling the tool
-- highlighting / choosing what to link
+- highlighting / choosing what to link/label
 - link as you think
 - choosing / honing your system
 
