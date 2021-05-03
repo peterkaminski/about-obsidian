@@ -7,7 +7,7 @@
 
 ## Example: Obsidian (wiki)
 
-- chunks: page, headers, bullets
+- chunks: page, paragraphs, headers, bullets
 - semantic chunks: paragraphs, bullet list, quote block
 - context: running text, links (forward/back), tags
 

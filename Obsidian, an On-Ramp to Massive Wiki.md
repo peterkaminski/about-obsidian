@@ -61,4 +61,11 @@ Skillz
 - link as you think
 - choosing / honing your system
 
+---
+
+Levels
+
+- watch about Obsidian (Pete's preso, wiki, and just search on YouTube)
+	- try Obsidian
+		- feel like you "get it"
 
