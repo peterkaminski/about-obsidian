@@ -21,7 +21,6 @@ Knowledge is more than text. :-)
 - videos
 - 3d world
 
-
 ---
 
 - Data
@@ -49,7 +48,7 @@ _a system/workflow is a set of opinions about how things should be done._
 
 What You Need/Get from a Tool
 
-- [[Context]] is how you tell where you are, and what's around.
+- [[Context]] (is how you tell where you are, and what's around)
 - Chunking
 
 ---
@@ -67,5 +66,6 @@ Levels
 
 - watch about Obsidian (Pete's preso, wiki, and just search on YouTube)
 	- try Obsidian
-		- feel like you "get it"
+		- feel like you "get it" with Obsidian
+			- try Massive Wiki :-)
 

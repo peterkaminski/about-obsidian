@@ -1,3 +1,5 @@
+(this page was copied over from a private personal wiki of mine)
+
 ## Official Site
 
 "[Obsidian](https://obsidian.md/) is a powerful knowledge base that works on top of a local folder of plain text Markdown files."
